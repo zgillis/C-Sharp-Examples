@@ -1,0 +1,13 @@
+/home/zgillis11/Projects/CSharp/CSharp/bin/Debug/CSharp.exe
+/home/zgillis11/Projects/CSharp/CSharp/bin/Debug/CSharp.pdb
+/home/zgillis11/Projects/CSharp/CSharp/obj/x86/Debug/CSharp.csprojResolveAssemblyReference.cache
+/home/zgillis11/Projects/CSharp/CSharp/obj/x86/Debug/CSharp.csproj.CoreCompileInputs.cache
+/home/zgillis11/Projects/CSharp/CSharp/obj/x86/Debug/CSharp.exe
+/home/zgillis11/Projects/CSharp/CSharp/obj/x86/Debug/CSharp.pdb
+/home/zgillis11/Projects/CSharp/CSharp/bin/Debug/System.IO.dll
+/home/zgillis11/Projects/CSharp/CSharp/bin/Debug/System.Net.Http.dll
+/home/zgillis11/Projects/CSharp/CSharp/bin/Debug/System.Runtime.dll
+/home/zgillis11/Projects/CSharp/CSharp/bin/Debug/System.Security.Cryptography.Algorithms.dll
+/home/zgillis11/Projects/CSharp/CSharp/bin/Debug/System.Security.Cryptography.Encoding.dll
+/home/zgillis11/Projects/CSharp/CSharp/bin/Debug/System.Security.Cryptography.Primitives.dll
+/home/zgillis11/Projects/CSharp/CSharp/bin/Debug/System.Security.Cryptography.X509Certificates.dll
