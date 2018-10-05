@@ -11,6 +11,9 @@ namespace Properties
 
 			bob.NetWorth = 160020.23m;
 			Console.WriteLine(string.Format("{0}'s net worth is: ${1}", bob.Name, bob.NetWorth));
+
+			bob.Age = 55;
+			Console.WriteLine("Bob is " + bob.Age + " years old.");
         }
     }
 }

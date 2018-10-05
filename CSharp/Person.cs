@@ -27,5 +27,9 @@ namespace Properties
 			get => netWorth;
 			set => netWorth = value;
 		}
+
+        // Public property with default set and get of raw value
+        public int Age
+		{ get; set; }
     }
 }
